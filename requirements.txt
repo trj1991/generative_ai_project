@@ -1,0 +1,9 @@
+google-generativeai
+langchain
+#langchain-google-genai==0.1.0
+#langchain-google-vertexai==0.1.0
+#google-cloud-aiplatform==1.38.1
+fastapi
+uvicorn
+python-dotenv
+pydantic
